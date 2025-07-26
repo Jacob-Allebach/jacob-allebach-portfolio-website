@@ -1,19 +1,15 @@
 ---
-title: Vue Date Picker
-emoji: 🗓
+title: Gatorgrader Application
+emoji: 🐊
 metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
 date: 2019-01-01T00:00:00.000Z
-summary: This is a Vue component I made
-tags:
-  - javascript
-  - vue
-  - aws
+summary: A code grading tool used by Allegheny College
 ---
 
-### Task
+### Project Info
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+This application allows computer science professors to create a set of criteria that they desire to have completed on a given assignment and the Gatorgrader will automatically check through the code written and the output it produces to make sure the criteria is met. In addition to this being automatic for the professors, it is also very practical for the students because they can use it to check if they've correctly completed the assignment before turning it in so that they aren't confused about a low grade for not meeting the criteria.
 
-### Solution
+The portion of the project that I helped work on was taking the criteria made by the professor in a YAML file and converting that data into a more easily workable format so that it can be processed and the commands can be run. This work was done during the process of converting the Gatorgrader from using Java to using Python to keep more up to date with what the college teaches.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+[Here](https://github.com/GatorEducator/gatorgrader) is a link to the GatorEducator organization's Gatorgrader repository.

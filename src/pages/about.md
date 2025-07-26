@@ -9,23 +9,10 @@ eleventyNavigation:
   order: 1
 ---
 
-### What is Fernfolio?
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
+I am Jacob Allebach, a software engineer and game developer.
 
-### Why create this?
+I have worked on a few projects in the past which you can find in the projects tab of this site. These include a couple of games made using Processing and Twine 2 as well as a grading application used by Allegheny College. While I don't currently have any other projects to show yet, I hope to have more presentable work in the near future. I am currently learning to develop games in the Unity engine, so the next big project on here will most likely be created through there.
 
-**Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
+I am proficient at working in the coding languages Java, Python, C, and C# scripting for Unity. I collaborated with a large team of other students to create the automatic grading tool used in the Allegheny College computer science department that is still used today. I also advised 6th-8th grade students in creating games of their own using Processing, with each fully developing a miniature game. I'm open to communicating through many different means, including meeting in-person, using Discord or Slack, and any other online medium that is reasonably accessible.
 
-**Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
-
-### How do I edit content?
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
-
-### Further customizations
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
-
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
-
-Thanks for checking out Fernfolio 👋 - [Tyler M. Roderick](https://www.tylerroderick.com/)
-
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+![Fern in Hand](/assets/img/headshot.jpg "A picture of me")

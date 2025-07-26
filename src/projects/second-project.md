@@ -1,18 +1,13 @@
 ---
-title: Another NPM Package
-emoji: 💾
+title: Keep Trying (Game)
+emoji: 🌀
 metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
 date: 2019-01-01T00:00:00.000Z
-summary: This is an NPM package I made
-tags:
-  - javascript
-  - node
+summary: This is a browser-run turn-based rogue-like game
 ---
 
-### Task
+### Project Info
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+This game was made in Twine 2 as my final project for The Expressive and Persuasive Power of Video Games course at Allegheny College. It's a rogue-like game that features 17 different enemy encounters with custom art that are randomly chosen every playthrough. In order to complete this game, I had to learn the unique coding system offered by Twine 2.
 
-### Solution
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+[Here](https://github.com/Jacob-Allebach/Keep_Trying_Game) is a link to the repository where you can download the file and play the game in your browser.

@@ -1,28 +1,13 @@
 ---
-title: Cat Translation API
-emoji: 😺
+title: Journey (Game)
+emoji: ⬛
+metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
 date: 2019-01-01T00:00:00.000Z
-summary: API to translate cat speech to english
-metaDescription: This is a sample meta description. If one is not present in
-  your page/project's front matter, the default metadata.desciption will be used
-  instead.
-tags:
-  - golang
-  - graphQL
-  - aws
+summary: A basic adventure game with combat elements
 ---
 
-### Task
+### Project Info
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+This game was made in Processing 3 for my final project in AP Computer Science at Winchester Thurston. It contains a map system to generate different rooms as well as enemies and traps with different attack patterns and defenses. This game was heavily inspired by the classic Atari game Adventure.
 
-### Solution
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-#### I﻿mage Uploaded to CMS:
-![cat relaxing](/src/assets/img/1177px-cat_august_2010-4.jpg)
-
-#### Remote Image:
-![cat in snow](https://upload.wikimedia.org/wikipedia/commons/b/b6/Felis_catus-cat_on_snow.jpg)
-
+[Here](https://github.com/Jacob-Allebach/Journey_Game) is a link to the repository where you can download the files and play the game.

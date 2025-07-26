@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
-  "image": "/src/assets/img/fern-in-hand.jpeg",
-  "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "title": "Jacob Allebach",
+  "image": "src/assets/img/headshot.jpg",
+  "image_alt": "A photo of myself from 3 or 4 years ago",
+  "body": "A software engineer and game developer.\n\nProficient in Java, Python, C, and C# scripting in Unity"
 }
