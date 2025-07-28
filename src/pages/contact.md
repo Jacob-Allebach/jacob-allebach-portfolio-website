@@ -15,6 +15,8 @@ eleventyNavigation:
 
 Email: jakeyjakey285@gmail.com
 
+BlueSky: [@jacob-allebach.bsky.social](https://bsky.app/profile/jacob-allebach.bsky.social)
+
 Discord: okzz
 
 GitHub: [Jacob-Allebach](https://www.github.com/Jacob-Allebach)
